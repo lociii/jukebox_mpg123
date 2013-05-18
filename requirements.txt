@@ -1,0 +1,2 @@
+jukebox>=0.3.7
+python-daemon==1.6

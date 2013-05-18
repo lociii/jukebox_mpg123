@@ -1,0 +1,7 @@
+.idea/
+dist/
+jukebox_mpg123.egg-info/
+*.pyc
+*.pid
+build/
+*.sw*
